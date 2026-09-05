@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # hospital-readmission
 =======
 # Hospital Readmission Prediction System
